@@ -1,2 +1,3 @@
-# Database-Genetik-Hiu-dan-Pari
-Database Genetik Hiu dan Pari Oleh Mahasiswa MBKM Prodi Pendidikan Biologi, Jurusan Biologi dan Perikanan Kelautan, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Pendidikan Ganesha Tahun 2021
+# Database Genetik Hiu dan Pari
+Artikel ini merupakan tugas magang mahasiswa Program Studi Pendidikan Biologi, Jurusan Biologi dan Perikanan Kelautan, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Pendidikan Ganesha Tahun 2021. Program magang dilakukan di Yayasan Biodiversitas Indonesia (BIONESIA) yang terletak di Jalan Buluh Indah No. 122, Pemecutan Kaja, Kecamatan Denpasar Utara, Kota Denpasar, Provinsi Bali. Peserta magang terdiri dari lima orang mahasiswa semester lima, yaitu I Gede Glyky Arika Wiguna, Ni Made Anindia Twi, Aryani Pradana Pujiamukti, Ni Wayan Anggi Sri Wahyuni, dan Ni Komang Ana Oktaviani.
+
