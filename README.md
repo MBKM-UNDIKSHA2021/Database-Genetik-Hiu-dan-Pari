@@ -35,7 +35,7 @@ Data untuk latihan pengerjaan Rstudio dan Galaxy dapat diunduh pada drive beriku
 
 Untuk tatacara penggunaan software RStudio dan Galaxy dapat dilihat pada drive berikut (https://drive.google.com/drive/folders/15I9HU_thawHk38B-9S4252kDGc88KJZc?usp=sharing)
 
-DAFTAR PUSTAKA
+# DAFTAR PUSTAKA
 
 Abdullah, A., A.E. Ratih, S. Aulia, P. Rianti, T. Nurhayati, & A. M. Jacoeb. 2020. Autentikasi Produk Olahan Ikan Hiu Komersial Menggunakan Teknik Species-Specific DNA Mini-barcodes. Jurnal Pengolahan Hasil Perikanan Indonesia (JPHPI) 23(2): p383-391.
 
