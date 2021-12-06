@@ -54,8 +54,7 @@ Syahara, Layla. 2019. Identifikasi Dan Pertumbuhan Ikan Pari (Dasyatidae) Di Per
 Wehantouw, A., E.L. Ginting, & S. Wullur. 2017. Identifikasi Sirip Ikan Hiu Yang Didapat Dari Pengumpul Di Minahasa Tenggara Menggunakan DNA Barcode. Jurnal Pesisir dan Laut Tropis 1(1): p62-68.
 
 ## Pembuat database
-Database ini merupakan tugas magang MBKM (Merdeka Belajar Kampus Merdeka) mahasiswa di ) tahun 2021 dari Program Studi Pendidikan Biologi, Jurusan Biologi dan Perikanan Kelautan, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Pendidikan Ganesha bekerjasama dengan Yayasan Biodiversitas Indonesia (BIONESIA. 
+Database ini merupakan tugas magang MBKM (Merdeka Belajar Kampus Merdeka) mahasiswa di tahun 2021 dari Program Studi Pendidikan Biologi, Jurusan Biologi dan Perikanan Kelautan, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Pendidikan Ganesha bekerjasama dengan Yayasan Biodiversitas Indonesia (BIONESIA). 
 
 Peserta magang MBKM terdiri dari lima orang mahasiswa semester lima, yaitu I Gede Glyky Arika Wiguna, Ni Made Anindia Twi, Aryani Pradana Pujiamukti, Ni Wayan Anggi Sri Wahyuni, dan Ni Komang Ana Oktaviani.
 
-Untuk bertanya lebih lanjut mengenai database ini silakan hubungi ......(salah satu email kalian)
