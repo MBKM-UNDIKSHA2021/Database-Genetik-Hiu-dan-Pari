@@ -1,6 +1,4 @@
-# Analisis Molekuler Serta Penggunaan Database Hiu Dan Pari Secara Offline (Blastn) dan Online (Galaxy)
-
-## Database Genetik oleh Mahasiswa MBKM Undiksha Tahun 2021
+# Database Genetik oleh Mahasiswa MBKM Undiksha Tahun 2021
 Database genetik ini merupakan kumpulan sekuen DNA dari lokus COI (Cytochrome Oxidase I) yang bersumber dari jurnal-jurnal dan penelitian yang sudah dilakukan oleh para peneliti dari tahun 2017 sampai 2020 Selain itu kami memfokuskan untuk mengambil sequence data hiu dan pari yang berasal dari perairan Indonesia. 
 
 Database genetik hiu dan pari ini bertujuan untuk mengkoleksi data sequence di perairan Indonesia yang tersebar di berbagai sumber referensi, termasuk jurnal ilmiah dan database genetik ini dibuat untuk para peneliti, dosen, mahasiswa ataupun pemangku kepentingan lainnya untuk dapat memanfaatkan dari database ini sebagai pembanding atau secondary data.  
